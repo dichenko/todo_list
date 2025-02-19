@@ -23,7 +23,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/dichenko/todo-list.git
+git clone https://github.com/dichenko/todo_list.git
 ```
 
 2. Установить зависимости:
